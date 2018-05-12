@@ -1,4 +1,8 @@
 _repo: Si-se-por-que-Novela_47784
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47784-h/images/cover.jpg
 creator:
   author:
     agent_name: Trigo, Felipe
@@ -10,6 +14,8 @@ creator:
     - http://es.wikipedia.org/wiki/Felipe_Trigo
     - http://en.wikipedia.org/wiki/Felipe_Trigo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47784#Si-se-por-que-Novela
 gutenberg_issued: '2014-12-26'
 gutenberg_type: Text
 identifiers:
